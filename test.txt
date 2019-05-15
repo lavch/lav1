@@ -1,4 +1,5 @@
 test #1
 sas
-new line
-
+=======
+new line in feature
+>>>>>>> new change in feature
